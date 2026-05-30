@@ -1,0 +1,4 @@
+Day 1 | 29 may 2026
+> started with networking learned OSI model , made notes 
+> practice basic Linux commands and noted them down 
+> set up a cybersecurity home lab 
