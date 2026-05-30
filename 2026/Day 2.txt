@@ -1,0 +1,8 @@
+Day 2 | 30 May 2026
+> Learned OSI model in depth and detail gained more clearity 
+- watched animated videos on how the data transmission 
+- capture a packet in wireshark and examine it viewing headers and its formats 
+> Learned and make notes on CIA triad  
+> practiced basic Linux commands 
+solve lvl 0 and 1 of overthewire labs 
+
