@@ -1,5 +1,8 @@
 # Security Learning Journey 🚀
 
+
+![cysec](img/img.jpg)
+
 ## About
 
 This repository documents my cybersecurity learning journey as I work toward becoming a penetration tester and offensive security professional.
