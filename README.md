@@ -1,7 +1,18 @@
+<div align="center">
+
 # Security Learning Journey 🚀
 
+<p align="center">
+  <img src="img/img.jpg" alt="Cybersecurity Banner" width="800">
+</p>
 
-![cysec](img/img.jpg)
+<p>
+  Documenting my journey toward becoming a Penetration Tester and Offensive Security Professional.
+</p>
+
+</div>
+
+---
 
 ## About
 
@@ -12,6 +23,7 @@ The goal of this repository is to maintain consistency, track progress, document
 Rather than focusing only on certifications, I want to develop practical skills through continuous learning, labs, projects, and real-world problem solving.
 
 ---
+
 ## Current Areas of Study
 
 ### Security Concepts
@@ -120,7 +132,7 @@ Rather than focusing only on certifications, I want to develop practical skills 
 * Methodology Development
 
 ---
----
+
 ## Learning Platforms
 
 * Hack The Box (HTB)
@@ -134,7 +146,7 @@ Rather than focusing only on certifications, I want to develop practical skills 
 
 ## Repository Structure
 
-```
+```bash
 Cybersecurity-Learning-Journey
 │
 ├── README.md
@@ -144,7 +156,6 @@ Cybersecurity-Learning-Journey
 │   ├── 2026-05-31.md
 │   └── 2026-06-01.md
 │
-
 ```
 
 ---
@@ -156,7 +167,7 @@ Cybersecurity-Learning-Journey
 * Build a strong networking foundation
 * Become comfortable with Linux
 * Learn web application security fundamentals
-* Complete beginner paths on TryHackMe and Hackthebox
+* Complete beginner paths on TryHackMe and Hack The Box
 
 ### Long-Term Goals
 
@@ -169,7 +180,7 @@ Cybersecurity-Learning-Journey
 
 ## Philosophy
 
-Small progress every day is better than occasional bursts of motivation.
+> Small progress every day is better than occasional bursts of motivation.
 
 The purpose of this repository is not to showcase perfection but to document continuous improvement and practical learning over time.
 
@@ -178,3 +189,4 @@ The purpose of this repository is not to showcase perfection but to document con
 ## Disclaimer
 
 All activities documented here are conducted in legal, authorized, and educational environments. This repository does not promote unauthorized access or malicious activity.
+
