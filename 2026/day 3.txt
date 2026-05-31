@@ -1,0 +1,3 @@
+day 3 | 31st March 2026
+> just wrote a long security blog it took me 2 hours to write it down
+> the blog was on my vdp security finding Nasa
