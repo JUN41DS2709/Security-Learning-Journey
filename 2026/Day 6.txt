@@ -1,0 +1,5 @@
+Day 6 | 3rd June 2026
+> read previous notes of networking   basics and read about tcp/ip model 
+> studied Linux commands and tried to solve otw labs but i guess its ruined and not working properly 
+> getting expert at using Linux 
+> 
