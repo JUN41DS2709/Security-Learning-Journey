@@ -1,1 +1,2 @@
 Day 7 | 4th June 2026
+> Studied TCP protocol and explained it out loud to myself 
