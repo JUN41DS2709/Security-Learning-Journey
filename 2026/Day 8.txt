@@ -1,0 +1,6 @@
+Day 8 | 5th June 2026
+> watched network chuck video of TCP/IP Model and OSI
+> read about the key difference between OSI and TCP/IP 
+> wrote THE CIA TRIAD In my own words in notes and properly understood it 
+> learned about Linux file system new command file and learn the concepts in file system and memory management 
+> learned python data types ( int str float complex bool etc) and type casting , strings ( Slicing and negative slicing  
