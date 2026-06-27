@@ -6,3 +6,9 @@ Day 2 | 30 May 2026
 > practiced basic Linux commands 
 solve lvl 0 and 1 of overthewire labs 
 
+---- restarting 
+Day 2 | 26th June 2026
+- read about Asset threats vulnerability and risk also watched videos on it 
+- read and solved code challenges on python operators 
+- learned about Linux file systems and commands trying to understand why some files exist 
+
