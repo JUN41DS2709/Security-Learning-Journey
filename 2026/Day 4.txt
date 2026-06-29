@@ -2,3 +2,12 @@ Day 4 | 1st June 2026
 > studied OSI model wrote OSI model in my own words as per my understanding and knowledge and uploaded to GitHub in networking-concepts repository 
 >learned some new techniques to improve Linux cli speed
 >started python basics
+----
+----
+
+Day 4 | 29th June 2026
+finished network chuck ip address lesson
+and understood and revised the ip address and how it works also explained it to my own self
+for clearity 
+python : revised and learned about list and its methods solved some challenges on it
+Linux : learned about the architecture and Linux file system 
