@@ -11,3 +11,5 @@ and understood and revised the ip address and how it works also explained it to 
 for clearity 
 python : revised and learned about list and its methods solved some challenges on it
 Linux : learned about the architecture and Linux file system 
+solved : ninja skills a linux fundamentals challenge on try hackme
+
