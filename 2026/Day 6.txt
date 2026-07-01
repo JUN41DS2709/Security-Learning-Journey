@@ -2,3 +2,9 @@ Day 6 | 3rd June 2026
 > read previous notes of networking   basics and read about tcp/ip model 
 > studied Linux commands and tried to solve otw labs but i guess its ruined and not working properly 
 > getting expert at using Linux 
+---
+---
+Day 6 | 1 July 2026
+read and solved some mcq and scenario questions on security controls  
+solved some weekly challenges on w3 schools and studied dictionaries its methods and solved 
+some code challenges on it 
