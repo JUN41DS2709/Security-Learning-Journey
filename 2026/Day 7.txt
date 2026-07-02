@@ -1,2 +1,8 @@
 Day 7 | 4th June 2026
 > Studied TCP protocol and explained it out loud to myself 
+---
+
+Day 7 | 2 July 2026
+read and solved some mcq and scenario questions on security controls category and types  
+Studied conditional statement if/else/elif 
+Learned permissions in linux
