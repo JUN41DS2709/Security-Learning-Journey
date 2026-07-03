@@ -4,3 +4,12 @@ Day 8 | 5th June 2026
 > wrote THE CIA TRIAD In my own words in notes and properly understood it 
 > learned about Linux file system new command file and learn the concepts in file system and memory management 
 > learned python data types ( int str float complex bool etc) and type casting , strings ( Slicing and negative slicing  
+
+----
+----
+
+Day 8 | 3 July 2026
+> learned security controls explained out loud 
+> learned  ip address and about bits and bytes
+> learned match and case method  in python get started with loops 
+> learned more about Linux permissions in depth 
