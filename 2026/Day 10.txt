@@ -1,0 +1,8 @@
+Day 10 | 05 July 2026 sunday 
+> took an exam of my self with the help of an ai 
+  exam scenario 
+  1 hour exam 
+  consisting  mcqs and scenario based questions on what ive studied the entire week
+  also practical questions for python and linux bash were performed 
+> wrote a technical case study on a ransomware attack 
+
