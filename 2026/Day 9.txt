@@ -4,3 +4,4 @@ Day 9 | 6th June 2026
 ---
 
 Day 9 | 4th june 2026
+Wrote notes on security controls in my own word and documented it on github 
