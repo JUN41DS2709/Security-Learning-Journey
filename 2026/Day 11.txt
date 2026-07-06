@@ -1,2 +1,4 @@
 Day 11 | 6 July 2026 
 > learned : ip address , classes , subnet mask and cidr 
+> learned loops while and for practiced some questions on it and tried doing on my own
+> learned about user management and group management in linux 
