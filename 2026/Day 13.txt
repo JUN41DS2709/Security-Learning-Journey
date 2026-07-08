@@ -1,0 +1,3 @@
+Day 13 | 08 July 2026
+> wrote ip address  , subnet mask , cidr and ip address classes on my own words and also studied ip addresses classes 
+> learned python functions and return statements 
