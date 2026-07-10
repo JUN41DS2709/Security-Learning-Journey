@@ -1,0 +1,4 @@
+Day 15 | 10 July 2026 
+> learned and watched videos on defense in depth concept in cybersecurity 
+> learned and practice python decorators 
+> learned ssh , passwords and key authentication 
