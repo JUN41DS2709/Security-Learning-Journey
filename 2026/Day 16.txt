@@ -1,0 +1,5 @@
+Day 16 | 11th July 2026
+
+> learned defense in depth tried to explain it out loud 
+> learned python lambda 
+> learned ssh - key and password auth 
