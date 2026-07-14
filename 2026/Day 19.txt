@@ -1,0 +1,6 @@
+Day 19 | 14th July 2026
+
+> make notes of defense in depth and ip address in my own words uploaded it to GitHub notes repo  
+> learned python range , arrays ,iterators , json modules and functions also practiced the code challenges on w3schools 
+> Completed networking commands on Linux
+ip ifconfig ....etc  
