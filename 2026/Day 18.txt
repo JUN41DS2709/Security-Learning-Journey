@@ -3,3 +3,4 @@ Day 18 | 13th july 2026
 > learned mac vs ip address 
 > learned recursion function in python 
 > learned curl , wget and other file transfer commands 
+> started with writing my next  technical case study on notpetya attack 2017 
