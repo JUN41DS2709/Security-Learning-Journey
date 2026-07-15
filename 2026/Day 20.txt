@@ -1,1 +1,3 @@
-
+Day 20 | 15 july 2026
+> learned about tcp and udp 
+> practiced and learned python error handling , string formatting , None , user input 
