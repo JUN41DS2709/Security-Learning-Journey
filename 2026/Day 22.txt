@@ -1,3 +1,4 @@
 Day 22 | 17th July 2026
 > wrote about tcp and udp in my own words and uploaded notes on GitHub 
 > revised principal of least privilege
+> studied basics of socket programming 
