@@ -1,1 +1,5 @@
-
+Day 21 | 16th July 2026
+> Learned more about tcp and udp watched videos on how tcp and udp works
+> learned and solved scenario based questions on POLP ( principles of least privilege ) 
+> got some exposure on socket programming  and solved a python core concept room at try hackme
+> also solved a ctf on thm named operation slither
