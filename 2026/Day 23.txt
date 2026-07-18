@@ -1,0 +1,6 @@
+Day 23 | 18th July 2026
+> wrote about principal of least privilege in my own notes and uploaded it on GitHub as always 
+> learned AAA and watched videos on it
+> learned about dns ( just what it is what it does ? )
+> created a netcat with socket programming 
+
