@@ -1,0 +1,5 @@
+Day 25 | 20th July 2026
+> learned AAA concepts 
+> created a command execution program with socket programming
+> learned pentesting framework recon > scanning > exploitation > post exploitation > report
+> solved a pentesting fundamentals module on tryhackme
