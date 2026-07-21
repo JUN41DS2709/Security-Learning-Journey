@@ -1,0 +1,3 @@
+Day 26 | 21st july 2026
+> wrote AAA concept in my own words and stored it in my repo 
+> made a tcp-port-scanner using sockets with python 
