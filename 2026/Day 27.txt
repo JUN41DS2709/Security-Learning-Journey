@@ -1,0 +1,4 @@
+Day 27 | 22 July 2026
+> introduction to DNS — A, AAAA, MX, CNAME, TXT records just had an overview on these topics 
+> made a tcp echo server using socket with python 
+> learned pentest lifecycle  : recon > scanning and enumeration > exploitation > post exploitation > reporting
