@@ -1,0 +1,3 @@
+Day 28.txt | 23 July 2026
+> learned in depth  DNS — A, AAAA, MX, CNAME, TXT records 
+> got an overview of request module python 
